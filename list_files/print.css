@@ -1,0 +1,76 @@
+/* green: 5ca315 */
+
+
+
+* {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#444444;
+}
+
+html {
+
+}
+
+body {
+	background-color:#FFFFFF;
+	margin:0;
+	margin:auto;
+	padding:0px;
+	padding-bottom:0px;
+}
+
+form {
+	display:none;
+	margin:0;
+	padding:0;
+	clear:both;
+	margin-bottom:20px;
+}
+
+
+ul {
+	margin:0;
+	margin:auto;
+	padding:0;
+}
+
+li {
+	font-size:18px;
+	font-weight:normal;
+	clear:both;
+	margin-bottom:0px;
+	padding-bottom:0px;
+}
+
+
+#view {
+	display:block;
+}
+
+#view img {
+	width:20px;
+	height:20px;
+}
+
+
+#view td {
+	vertical-align:top;
+}
+#view p {
+	margin-top:0px;
+	margin-bottom:0px;
+	font-size:18px;
+}
+
+#view p.smaller {
+	font-size:12px;
+	margin-bottom:10px;
+}
+
+#view-footer {
+	display:none;
+}
+
+.hide-on-print {
+	display:none;
+}
